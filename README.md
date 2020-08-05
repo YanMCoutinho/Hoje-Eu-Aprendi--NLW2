@@ -27,5 +27,5 @@ As tecnológias utilizadas foram
 
 ![Badge](https://img.shields.io/static/v1?label=&message=HTML/CSS&color=020659&style=for-the-badge)
 
-![Badge](https://img.shields.io/static/v1?label=SQL&message=&color=020659&style=for-the-badge)
+![Badge](https://img.shields.io/static/v1?label=SQL&message=.&color=31353D&style=for-the-badge)
 
