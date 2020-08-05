@@ -19,7 +19,7 @@ O objetivo desse projeto é entender e aplicar as tecnologias mais usadas no des
 
 # Status
 
-![Badge](https://img.shields.io/badge/Proffy-Em_Andamento-%237159c1?style=for-the-badge&logo=ghost)
+![Badge](https://img.shields.io/badge/Proffy-Em_Andamento-%FFD600?style=for-the-badge&logo=ghost)
 
 
 
@@ -36,4 +36,8 @@ As tecnológias utilizadas foram
 ![Badge](https://img.shields.io/static/v1?label=&message=SQL&color=31353D&style=for-the-badge)
 
 
+
+
 # Como Usar
+
+Baixe os arquivos da pasta Proffy e eles estarão prontos para o uso :+1:
