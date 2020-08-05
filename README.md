@@ -7,7 +7,7 @@
  <a href="#objetivo">Objetivo</a> •
   <a href="#Status">Status</a> •
  <a href="#Tecnologias">Tecnologias Utilizadas</a> •
- <a href="#Como Usar">Como Usar</a>
+ <a href="#Como_Usar">Como Usar</a>
 </p>
 
 
@@ -39,6 +39,6 @@ As tecnológias utilizadas foram
 
 
 
-# Como Usar
+# Como_Usar
 
 Baixe os arquivos da pasta Proffy e eles estarão prontos para o uso :+1:
