@@ -19,7 +19,7 @@ O objetivo desse projeto é entender e aplicar as tecnologias mais usadas no des
 
 # Status
 
-![Badge](https://img.shields.io/badge/Proffy-Em_Andamento-%FFD600?style=for-the-badge&logo=ghost)
+![Badge](https://img.shields.io/badge/Proffy-Em_Andamento-%FFFD15?style=for-the-badge&logo=ghost)
 
 
 
