@@ -1,0 +1,89 @@
+/*
+#conteiner {
+    box model
+    border: 1px solid red;
+    padding: 40px; 
+    margin: 60px;
+
+    width: 300px;
+    height: 300px;
+
+   
+    o tamanho (padding e margin) é dito na seguinte sequencia: (cima) (direita) (baixo) (esquerda); 
+    caso seja dito um valor ele será aplicado a todos os lados; 
+    caso seja dito dois valores ele será aplicado na seguinte sequencia: (cima e baixo) (direita e esquerda);
+    caso seja dito tres valores a sequencia será: (cima) (direita e esquerda) (baixo);
+  
+}
+*/
+
+/* VH  e VW  são unidades de medida que utilizam X partes de 100 do conteudo, sendo H = altura e W = largura*/
+
+:root {
+    --color-background: #F0F0F7;
+    --color-primary-lighter: #9871F5;
+    --color-primary-light: #916BEA;
+    --color-primary: #8257E5;
+    --color-primary-dark: #774DD6;
+    --color-primaty-darker: #6842c2;
+    --color-secondary: #04D361;
+    --color-secondary-dark: #04BF58;
+    --color-title-in-primary: #FFFFFF;
+    --color-text-in-primary: #D4C2FF;
+    --color-text-title: #32264D;
+    --color-text-complement: #9C98A6;
+    --color-text-base: #6A6180;
+    --color-line-in-white: #E6E6F0;
+    --color-input-background: #F8F8FC;
+    --color-button-text: #FFFFFF;
+    --color-box-base: #FFFFFF;
+    --color-box-footer: #FAFAFC;
+    --color-small-info: #C1BCCC;
+
+    /* 
+    1rem = font-size definido no root, o qual é = 16px = 100%
+    1em = font-size definido no seus antecessores, comumente 16px
+    */
+    font-size: 60%; /* controle das medidas em rem */
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /*a propriedade border-box faz com que não seja preciso descontar o padding na hora de calcular o tamanho dos elementos :)*/
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100vh;
+}
+
+body {
+    background: var(--color-background);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+body,
+input,
+button,
+textarea {
+    font: 500 1.6rem Poppins;  /*isso está da segguinte forma: (font-weight) (font-size) (font-family)*/
+    color: var(--color-text-base);
+}
+
+#container {
+    width: 90vw;
+    max-width: 700px;
+}
+
+@media (min-width: 700px) {
+    :root {
+        font-size: 62.5%;
+    }
+
+}
