@@ -2,13 +2,10 @@
 <p align="center">Projeto da NLW#2 da Rocketseat na trilha para iniciantes</p>
 
 
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
@@ -17,16 +14,10 @@
  <a href="#Como_Usar">Como Usar</a>
 </p>
 
-
-
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 
 # Objetivo
 
