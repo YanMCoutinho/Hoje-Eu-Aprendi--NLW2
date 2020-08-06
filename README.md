@@ -27,7 +27,7 @@ O objetivo desse projeto é entender e aplicar as tecnologias mais usadas no des
 
 # Tecnologias
 
-<p display="flex" align-items="center">
+<p display="flex" align="center" justify="center">
 As tecnológias utilizadas foram
 
 ![Badge](https://img.shields.io/static/v1?label=&message=Javascript&color=FF4040&style=for-the-badge)
