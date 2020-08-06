@@ -1,4 +1,4 @@
-# Hoje eu aprendi  NLW2 Iniciante
+# Hoje eu aprendi  NLW2 Discovery
 <p align="center">Projeto da NLW#2 da Rocketseat na trilha para iniciantes</p>
 
 
