@@ -27,7 +27,7 @@ O objetivo desse projeto é entender e aplicar as tecnologias mais usadas no des
 
 # Tecnologias
 
-<p display="flex" align="center" justify="center">
+
 As tecnológias utilizadas foram
 
 ![Badge](https://img.shields.io/static/v1?label=&message=Javascript&color=FF4040&style=for-the-badge)
@@ -37,9 +37,8 @@ As tecnológias utilizadas foram
 
 ![Badge](https://img.shields.io/static/v1?label=&message=SQL&color=31353D&style=for-the-badge)
 
-</p>
 
 
 # Como_Usar
 
-Baixe os arquivos da pasta Proffy e eles estarão prontos para o uso :+1:
+Baixe os arquivos da pasta "Proffy" e eles estarão prontos para o uso (lembre-se de usar a pasta "Proffy" como a pasta raiz do projeto) :+1:
