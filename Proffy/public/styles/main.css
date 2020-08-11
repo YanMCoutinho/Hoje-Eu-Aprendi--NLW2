@@ -51,8 +51,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box; /*a propriedade border-box faz com que não seja preciso descontar o padding na hora de calcular o tamanho dos elementos :)*/
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
+    -webkit-appearance: none;
 }
 
 html,
