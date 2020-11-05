@@ -1,16 +1,15 @@
 # 📋 Índice
 <br>
 
-<a href"#Sobre">Sobre</a>
-<a href"#Tecnologias">Tecnologias utilizadas</a>
-<a href"#execucao"> Como executar o projeto </a>
-<a href"#Preview">Preview</a>
+<a href="#Sobre">Sobre</a>
+<a href="#Tecnologias">Tecnologias utilizadas</a>
+<a href="#execucao"> Como executar o projeto </a>
+<a href="#Preview">Preview</a>
 
 
 <h2 id"preview">🖥 Preview</h2>
 
-
-# 📖 Sobre
+<h2 id"Sobre">📖 Sobre </h2>
 <br>
 Este é um projeto desenvolvido durante a Next Level Week, realizada pela @Rocketseat durante os dias 3 a 9 de Agosto de 2020.
 <br>
