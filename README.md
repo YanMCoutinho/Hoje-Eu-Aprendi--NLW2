@@ -1,3 +1,5 @@
+<img src="https://camo.githubusercontent.com/4b26d1e9393ca167e75911990bda921aafeb247701ea70296223bc0538af1cd8/68747470733a2f2f696b2e696d6167656b69742e696f2f6361706974616f2f50726f6666792f6e6c77325f36643750766c485a352e737667" alt="Logo NLW">
+
 # 📋 Índice
 <br>
 
@@ -43,14 +45,17 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 <h2 id"execucao"> ⌨ Como executar o projeto </h2>
 
 <br>
-#Clonar o repositório
-git clone https://github.com/guilhermecapitao/proffy-discovery
+<p>#Clonar o repositório</p>
+git clone https://github.com/YanMCoutinho/Hoje-Eu-Aprendi--NLW2
+<br>
 
 #Entrar no diretório
 cd proffy-discovery
+<br>
 
 #Baixar as dependências
 npm i
+<br>
 
 #Executar o servidor
 npm run dev
@@ -61,5 +66,5 @@ Feito isso, abra o seu navegador e acesse http://localhost:5500/
 
 # 
 <p>Desenvolvido com Rocketseat por Yan M. Coutinho</p>
-<p>ReadMe foi feito utilizando de base o ReadMe do Guilherme Capitão</p>
+<p>ReadMe foi feito utilizando de base o ReadMe do <a href="https://github.com/guilhermecapitao">Guilherme Capitão</a></p>
 
