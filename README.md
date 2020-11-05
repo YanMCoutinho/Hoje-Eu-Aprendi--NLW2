@@ -60,7 +60,6 @@ Feito isso, abra o seu navegador e acesse http://localhost:5500/
 <br>
 
 # 
-Desenvolvido com Rocketseat por Yan M. Coutinho
-
-ReadMe foi feito utilizando de base o ReadMe do Guilherme Capitão
+<p>Desenvolvido com Rocketseat por Yan M. Coutinho</p>
+<p>ReadMe foi feito utilizando de base o ReadMe do Guilherme Capitão</p>
 
