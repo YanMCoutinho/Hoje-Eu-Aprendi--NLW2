@@ -55,20 +55,22 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 <h2 id"execucao"> ⌨ Como executar o projeto </h2>
 
 <br>
-<p>#Clonar o repositório git clone https://github.com/YanMCoutinho/Hoje-Eu-Aprendi--NLW2 </p>
+<p color="#787878">#Clonar o repositório</p>
+<p>git clone https://github.com/YanMCoutinho/Hoje-Eu-Aprendi--NLW2 </p>
 <br>
 
-#Entrar no diretório
-cd proffy-discovery
+<p color="#787878">#Entrar no diretório</p>
+<p>cd proffy-discovery</p>
 <br>
 
-#Baixar as dependências
-npm i
+<p color="#787878">#Baixar as dependências</p>
+<p>npm i</p>
 <br>
 
-#Executar o servidor
-npm run dev
-Feito isso, abra o seu navegador e acesse http://localhost:5500/
+<p color="#787878">#Executar o servidor</p>
+<p>npm run dev</p>
+
+<p>Feito isso, abra o seu navegador e acesse http://localhost:5500/</p>
 
 <br>
 <br>
