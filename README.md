@@ -1,51 +1,52 @@
-# Hoje eu aprendi       (NLW2 Discovery)
-<p align="center">Projeto da NLW#2 da Rocketseat na trilha para iniciantes</p>
-
-
-<br>
-<br>
-<br>
+# 📋 Índice
 <br>
 
-<h3 align="center">
- <a href="#objetivo">Objetivo</a> •
-  <a href="#Status">Status</a> •
- <a href="#Tecnologias">Tecnologias Utilizadas</a> •
- <a href="#Como_Usar">Como Usar</a>
-</h3>
+<a href"#Sobre">Sobre</a>
+<a href"#Tecnologias">Tecnologias utilizadas</a>
+<a href"#execucao"> Como executar o projeto </a>
+<a href"#Preview">Preview</a>
+
+
+<h2 id"preview">🖥 Preview</h2>
+
+
+# 📖 Sobre
+<br>
+Este é um projeto desenvolvido durante a Next Level Week, realizada pela @Rocketseat durante os dias 3 a 9 de Agosto de 2020.
+<br>
+A proposta do projeto é uma aplicação que possa ligar quem deseja aprender, com quer ensinar. É possível encontrar alunos para o que você leciona, ou encontrar o professor para aquela matéria que você sempre quis aprender mais! Sem que haja nenhuma limitação de área!
 
 <br>
+
+<h2 id"Tecnologias">🚀 Tecnologias utilizadas</h2>
+O projeto está desenvolvido utilizando as seguintes tecnologias:
+<ul>
+	<li>HTML</li>
+	<li>CSS</li>
+	<li>JavaScript</li>
+	<li>Node.js</li>
+	<li>Nunjucks</li>
+	<li>SQLite</li>
+</ul>
+
 <br>
-<br>
-<br>
 
-# Objetivo
+<h2 id"execucao"> ⌨ Como executar o projeto </h2>
+#Clonar o repositório
+git clone https://github.com/guilhermecapitao/proffy-discovery
 
-O objetivo desse projeto é entender e aplicar as tecnologias mais usadas no desenvolvimento Web (HTML/CSS, JavaScript e SQl) atráves da criação de um site fícticio, chamado Proffy, que tem como objetivo unir os estudantes e professores para aulas particulares.
+#Entrar no diretório
+cd proffy-discovery
 
+#Baixar as dependências
+npm i
 
-# Status
+#Executar o servidor
+npm run dev
+Feito isso, abra o seu navegador e acesse http://localhost:5500/
 
+# 
+Desenvolvido com Rocketseat por Yan M. Coutinho
 
-<h4 align="center">
-	🚧  Proffy 🚧 Em desenvolvimento...  🚧
-</h4>
+ReadMe foi feito utilizando de base o ReadMe do Guilherme Capitão
 
-
-# Tecnologias
-
-
-As tecnológias utilizadas foram
-
-![Badge](https://img.shields.io/static/v1?label=&message=Javascript&color=FF4040&style=for-the-badge)
-
-
-![Badge](https://img.shields.io/static/v1?label=&message=HTML/CSS&color=020659&style=for-the-badge)
-
-![Badge](https://img.shields.io/static/v1?label=&message=SQL&color=31353D&style=for-the-badge)
-
-
-
-# Como_Usar
-
-Baixe os arquivos da pasta "Proffy" e eles estarão prontos para o uso (lembre-se de usar a pasta "Proffy" como a pasta raiz do projeto) :+1:
