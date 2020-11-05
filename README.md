@@ -53,7 +53,7 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 
 <br>
 <p color="#787878">#Clonar o repositório</p>
-<p>git clone https://github.com/YanMCoutinho/Hoje-Eu-Aprendi--NLW2 </p>
+<p>git clone https://github.com/YanMCoutinho/Hoje-Eu-Aprendi--NLW2.git </p>
 <br>
 
 <p color="#787878">#Entrar no diretório</p>
