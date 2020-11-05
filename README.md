@@ -21,7 +21,6 @@
 </ul>
 <br>
 
-
 <h2 id"preview">🖥 Preview</h2>
 
 <img src="https://camo.githubusercontent.com/ea4658c96493e12a44376a3612e2b2f11dd2f3fa9d11692680a6a33ede4f4321/68747470733a2f2f696b2e696d6167656b69742e696f2f6361706974616f2f50726f6666792f66696e616c5f313539363738313933375f75726741556f50432d2e6a7067" alt="Pagina Inicial">
@@ -55,24 +54,23 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 <h2 id"execucao"> ⌨ Como executar o projeto </h2>
 
 <br>
-<p color="#787878">#Clonar o repositório</p>
+> <p color="#787878">#Clonar o repositório</p>
 <p>git clone https://github.com/YanMCoutinho/Hoje-Eu-Aprendi--NLW2 </p>
 <br>
 
-<p color="#787878">#Entrar no diretório</p>
-<p>cd proffy-discovery</p>
+> <p color="#787878">#Entrar no diretório</p>
+<p> <a href="">cd</a> proffy-discovery</p>
 <br>
 
-<p color="#787878">#Baixar as dependências</p>
+> <p color="#787878">#Baixar as dependências</p>
 <p>npm i</p>
 <br>
 
-<p color="#787878">#Executar o servidor</p>
+> <p color="#787878">#Executar o servidor</p>
 <p>npm run dev</p>
-
+<br>
 <p>Feito isso, abra o seu navegador e acesse http://localhost:5500/</p>
 
-<br>
 <br>
 
 # 
