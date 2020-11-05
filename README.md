@@ -5,7 +5,6 @@
 <div align="center">
 <img src="https://img.shields.io/badge/stars-100-blue" alt="stars 100">
 <img src="https://img.shields.io/badge/license-MIT-success" alt="license MIT">
-<img src="https://img.shields.io/badge/forks-38-blue" alt="forks 38">
 </div>
 <br>
 <br>
