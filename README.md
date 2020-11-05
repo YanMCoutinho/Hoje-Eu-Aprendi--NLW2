@@ -55,8 +55,7 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 <h2 id"execucao"> ⌨ Como executar o projeto </h2>
 
 <br>
-<p>#Clonar o repositório</p>
-git clone https://github.com/YanMCoutinho/Hoje-Eu-Aprendi--NLW2
+<p>#Clonar o repositório git clone https://github.com/YanMCoutinho/Hoje-Eu-Aprendi--NLW2 </p>
 <br>
 
 #Entrar no diretório
