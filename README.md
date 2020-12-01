@@ -3,11 +3,6 @@
 </div>
 <br>
 <div align="center">
-[![GitHub stars] (https://img.shields.io/github/stars/YanMCoutinho/Hoje-Eu-Aprendi--NLW2)] (https://github.com/YanMCoutinho/Hoje-Eu-Aprendi--NLW2/stargazers)
-	<space> <space>
-[![GitHub license](https://img.shields.io/github/licenseYanMCoutinho/Hoje-Eu-Aprendi--NLW2)](https://github.com/YanMCoutinho/Hoje-Eu-Aprendi--NLW2/blob/master/LICENSE)
-		<space> <space>
-[![GitHub forks](https://img.shields.io/github/forks/guilhermecapitao/proffy-discovery)](https://github.com/guilhermecapitao/proffy-discovery/network)
 
 </div>
 <br>
@@ -63,22 +58,20 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 
 
 ```bash
-<br>
-<p color="#787878">#Clonar o repositório</p>
-<p>git clone https://github.com/YanMCoutinho/Hoje-Eu-Aprendi--NLW2.git </p>
-<br>
 
-<p color="#787878">#Entrar no diretório</p>
-<p> <a href="">cd</a> proffy-discovery</p>
-<br>
+git clone https://github.com/YanMCoutinho/Hoje-Eu-Aprendi--NLW2.git
 
-<p color="#787878">#Baixar as dependências</p>
-<p>npm i</p>
-<br>
 
-<p color="#787878">#Executar o servidor</p>
-<p>npm run dev</p>
-<br>
+Entrar no diretório cd proffy-discovery
+
+
+Baixar as dependências
+npm i
+
+
+Executar o servidor
+npm run dev
+
 ```
 <p>Feito isso, abra o seu navegador e acesse http://localhost:5500/</p>
 <br>
