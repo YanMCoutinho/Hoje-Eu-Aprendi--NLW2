@@ -3,7 +3,11 @@
 </div>
 <br>
 <div align="center">
-[![GitHub stars](https://img.shields.io/github/stars/YanMCoutinho/Hoje-Eu-Aprendi--NLW2)](https://github.com/YanMCoutinho/Hoje-Eu-Aprendi--NLW2/stargazers)<space> <space>[![GitHub license](https://img.shields.io/github/licenseYanMCoutinho/Hoje-Eu-Aprendi--NLW2)](https://github.com/YanMCoutinho/Hoje-Eu-Aprendi--NLW2/blob/master/LICENSE)<space> <space>[![GitHub forks](https://img.shields.io/github/forks/guilhermecapitao/proffy-discovery)](https://github.com/guilhermecapitao/proffy-discovery/network)
+[![GitHub stars](https://img.shields.io/github/stars/YanMCoutinho/Hoje-Eu-Aprendi--NLW2)](https://github.com/YanMCoutinho/Hoje-Eu-Aprendi--NLW2/stargazers)
+	<space> <space>
+[![GitHub license](https://img.shields.io/github/licenseYanMCoutinho/Hoje-Eu-Aprendi--NLW2)](https://github.com/YanMCoutinho/Hoje-Eu-Aprendi--NLW2/blob/master/LICENSE)
+		<space> <space>
+[![GitHub forks](https://img.shields.io/github/forks/guilhermecapitao/proffy-discovery)](https://github.com/guilhermecapitao/proffy-discovery/network)
 
 </div>
 <br>
